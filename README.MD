@@ -38,7 +38,7 @@ Status: Finalizado✅
 
   
 
-O projeto **DSMovie** foi desenvolvido durante o a semana SpringReact da DevSuperior. É um projeto FullStack onde o usuário pode avaliar os filmes no catálogo, informando seu email e atribuindo uma nota. Ultizizando React no FrontEnd e SpringBoot no BackEnd com deploy do banco de dados no Heroku.
+O projeto **DSMovie** foi desenvolvido durante o a semana SpringReact da DevSuperior. É um projeto FullStack onde o usuário pode avaliar os filmes no catálogo, informando seu email e atribuindo uma nota. Ultilizando React no FrontEnd e SpringBoot no BackEnd com deploy do banco de dados no Heroku.
 
   
 
