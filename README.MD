@@ -16,7 +16,7 @@
 
 <h4  align="center">
 
-Status: ✅Concluido.✅
+Status: Finalizado✅
 
 </h4>
 
